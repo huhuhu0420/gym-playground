@@ -1,0 +1,4 @@
+gymnasium==0.29.1
+numpy==1.26.1
+stable_baselines3==2.1.0
+stable_retro==0.9.1
